@@ -1,0 +1,28 @@
+# CLion / JetBrains
+.idea/
+*.iml
+
+# CMake-Build-Verzeichnisse
+cmake-build-*/
+build/
+out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+build.ninja
+.ninja_*
+
+# Kompilierte Dateien
+*.exe
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
